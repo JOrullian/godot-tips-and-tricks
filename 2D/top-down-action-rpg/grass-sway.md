@@ -2,6 +2,8 @@
 
 This tutorial will allow your grass, flowers, signs or anything else you'd like to sway back and forth when a player touches it. This can be extended for NPC collisions as well. 
 
+![gif](./gif/2024-10-13-16-39-53.gif)
+
 ## Tutorial
 
 1. Begin by creating a new `Node2D` scene that will act as a world/level
